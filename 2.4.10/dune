@@ -1,0 +1,4 @@
+(executable
+ (name tail_recursion_zarith)
+ (libraries zarith))
+
