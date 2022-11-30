@@ -14,5 +14,3 @@ x + y : int
 (fun x y -> x + y)
     : int -> int -> int
 **)
-
-
